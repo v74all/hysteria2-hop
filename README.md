@@ -3,7 +3,7 @@
 نصب Hysteria 2 با مبهم‌سازی Salamander و پورت‌هاپینگ UDP روی سرور شخصی، با یه دستور.
 English version: [below](#english)
 
-آموزش ویدیویی (فارسی): کانال یوتیوب [@V7lthronyx](https://www.youtube.com/@V7lthronyx)، اینترنت آزاد فصل ۲: قسمت ۳ (وقتی همه‌چیز کُنده، UDP).
+آموزش ویدیویی (فارسی): کانال یوتیوب [@V7lthronyx](https://www.youtube.com/@V7lthronyx)، اینترنت آزاد فصل ۲: [قسمت ۳ — وقتی همه‌چیز کُنده، UDP](https://youtu.be/lPaPOH6o8Kk).
 
 ## چی کار می‌کنه
 
